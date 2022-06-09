@@ -6,4 +6,5 @@
 
 
 This graph can be viewed on Thingspeak using this link -> https://thingspeak.com/channels/1762405
-I'm attaching the csv file of this IOT project using python in this repository.
+This program is developed in raspberry pi os and using raspberry pi 3b.
+I'm attaching the CSV file of this IoT project using python in this repository.
